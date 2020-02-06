@@ -1,2 +1,2 @@
-# data-analysis
-Python数据分析
+# Pandas_exercises
+Pandas练手习题数据集
